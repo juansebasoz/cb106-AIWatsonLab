@@ -1,0 +1,15 @@
+token: EAAR6L6B783sBAB3BZCAWYekqxWGPZCwt3Dg4Mvf376gkZB4lM8ZCq6ELHqyjYANrFtbDKiLNhJDlkmzbwZC8sEQBXA9SmcNVZCHQbZAZA29WCzfX6Yfyd7ZCmREYbZCdhoFirvjFlp7Y53AWQe4mPzb5eUBbmuZCkdpmcbPAfSiNi8Kr8KuVkNrbNkb
+Clave: EAAR6L6B783sBAJylneqHYh2yatVIDvd7PAANVm7YcTnf2HSJwHcZClHHXDr8FsdzZCecW4LVvekIZB75ZBSKuzzf6YZBMzjWZCjes3on54DQkhtG1ElFeBwZBGCxrKEEa02IpbLCriO7D9qTySAmmMIaWSlOmjCmhnC9cFpRz6lsZB6NQZBDiWKNG
+
+Generated: f451fc5b-806a-4da9-897b-9b8b4b4f747c
+
+https://integrations.us-south.assistant.watson.appdomain.cloud/public/facebook/5b31a4f5-0170-446c-9d35-2ef84a64de05/message?version=2022-12-05
+
+
+
+Slack
+
+Verification token: afRo9WWxcHIDvY5tbGXjQa2J
+Bot user token: xoxb-4779269449938-4791975508177-8JguIAoqTlW5KKTewsKJW3ie
+
+https://integrations.us-south.assistant.watson.appdomain.cloud/public/slack/776437e0-9e9e-4fdc-bf60-98ba17a10e00/message?version=2022-12-05
